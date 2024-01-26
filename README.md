@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas Birje</h1>
-- 🔭 I’m currently working on a **Blog Website**
+- 🔭 I’m currently working on **a Blog Website**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Web Dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
