@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Birje</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">An Aspiring Full Stack developer from India</h3>
 
 - 🔭 I’m currently working on **Blog Website**
 
